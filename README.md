@@ -1,2 +1,2 @@
 # dessert-recipes
-This is three of my favoriate desserts.
+This is three of my favorite desserts.
