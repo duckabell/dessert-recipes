@@ -1,0 +1,15 @@
+/* styles.css */
+
+
+h1 {
+    text-align: center;
+    color:royalblue;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bg {
+    background-color: silver;
+}
